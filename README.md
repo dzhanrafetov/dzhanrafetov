@@ -9,11 +9,7 @@ Who is Dzhan Rafetov ?
   <div id="header" align="right">
   <img src="https://media.giphy.com/media/vhVqGkxDYxAaRbOWVp/giphy.gif" width="25%" />
 </div>
-
-  
-
- 
- - 🔭 He currently working on Bee-Commerce Website 🐝 🍯 
+- 🔭 He currently working on Bee-Commerce Website 🐝 🍯 
 - 🌱 He currently learning SpringBoot 🍃
 - 📫 How to reach him: dzhanrafetov@gmail.com
 
