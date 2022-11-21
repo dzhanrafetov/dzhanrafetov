@@ -11,7 +11,7 @@
 
 **Who is Dzhan Rafetov:**
 
-- He is a young Java Developer from 🇧🇬 ,who loves to code 👨‍💻 
+- He is a Junior Java Developer from 🇧🇬 ,who loves to code 👨‍💻 
 - He currently working on Bee-Commerce Website 🐝 🍯 
 - He currently learning SpringBoot 🍃
 - How to reach him: dzhanrafetov@gmail.com 📫 
