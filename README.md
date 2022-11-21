@@ -6,7 +6,7 @@ Who is Dzhan Rafetov ?
 [![Mail](https://img.shields.io/badge/-Mail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dzhanrafetov@gmail.com)
  <br>
  
-  <img src="https://media.giphy.com/media/FlPJcTplkfefDCKq2b/giphy.gif" width="55%"  align="right"/>
+  <img src="https://media.giphy.com/media/FlPJcTplkfefDCKq2b/giphy.gif" width="35%"  align="right"/>
 
 **Talking about Personal Stuffs:**
 
