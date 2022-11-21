@@ -7,15 +7,15 @@
 [![Mail](https://img.shields.io/badge/-Mail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dzhanrafetov@gmail.com)
  <br>
   He is a Java Developer,who loves to code 👨‍💻  .
-  
+  <div id="header" align="right">
+  <img src="https://media.giphy.com/media/vhVqGkxDYxAaRbOWVp/giphy.gif" width="55%" />
+</div>
+
 - 🔭 I’m currently working on Bee-Commerce Website 🐝 🍯 
 - 🌱 I’m currently learning SpringBoot 🍃
 - 📫 How to reach me: dzhanrafetov@gmail.com
 
-   <div id="header" align="right">
-  <img src="https://media.giphy.com/media/vhVqGkxDYxAaRbOWVp/giphy.gif" width="55%" />
-</div>
-
+  
 
 <!--
 **dzhanrafetov/dzhanrafetov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
