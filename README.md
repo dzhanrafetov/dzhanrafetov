@@ -5,7 +5,8 @@ Who is Dzhan Rafetov ?
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/dzhan_rafetov)
 [![Mail](https://img.shields.io/badge/-Mail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dzhanrafetov@gmail.com)
  <br>
-  <img src="https://media.giphy.com/media/vhVqGkxDYxAaRbOWVp/giphy.gif" width="25%" />
+ 
+  <img src="https://media.giphy.com/media/vhVqGkxDYxAaRbOWVp/giphy.gif" width="25%"  align="right"/>
 
 - He is a young Java Developer from 🇧🇬 ,who loves to code 👨‍💻  .
 - 🔭 He currently working on Bee-Commerce Website 🐝 🍯 
