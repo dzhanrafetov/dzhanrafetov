@@ -15,7 +15,7 @@
 - He currently working on Bee-Commerce Website 🐝 🍯 
 - He currently learning SpringBoot 🍃
 - How to reach him: dzhanrafetov@gmail.com 📫 
-- In my free time, I solve problems on CodeWars and read tech articles 👨🏻‍🏫
+- In his free time, he solves problems on CodeWars and reads tech articles 👨🏻‍🏫
 
 <!--
 
