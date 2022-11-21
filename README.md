@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning SpringBoot 🍃
 - 📫 How to reach me: dzhanrafetov@gmail.com
   <div id="header" align="right">
-  <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="350" height="350" />
+  <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="350" height="350" />
 </div>
   
 
