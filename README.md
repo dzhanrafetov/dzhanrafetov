@@ -1,7 +1,7 @@
 
 <h1>This is Dzhan Rafetov.He is young ,but is hungry to learn something <h1>
-
-  <div id="header" align="center">
+  
+  <div id="header" align="right">
   <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="350" height="350" />
 </div>
   
