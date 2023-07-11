@@ -1,10 +1,12 @@
-<h1 align="center">Hi 👋, I'm Dzhan</h1>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=400&color=F7F7F7&width=500&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Dzhan" alt="Typing SVG" /></a>
+  </div>
+
+### 
+
 <h3 align="center">A passionate backend developer from Bulgaria</h3>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=dzhanrafetov.dzhanrafetov&left_text=visitors"  />
-
-###
-
+##
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/yEvqX4RIcQAZBXuH1E/giphy.gif"  />
 </div>
@@ -74,6 +76,8 @@
   </tr>
 </table>
 
+
+
 <div align="center">
   <a href="https://www.instagram.com/dzhan_rafetov/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -86,12 +90,20 @@
   </a>
 </div>
 
-###
+##
 
+<h3 align="center">GitHub Stats</h3>
+
+##
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=dzhanrafetov&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=70&date_format=M j[, Y]&order=3" height="160" alt="streak graph" /> <br>
 
+##
+
+<h3 align="center">Top Projects</h3>
+
+##
 
  <p align="center">
   <a href="https://github.com/dzhanrafetov/Melifera">
@@ -103,4 +115,5 @@
 </p>
 
 
+ 
 
