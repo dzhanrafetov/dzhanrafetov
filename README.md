@@ -11,33 +11,68 @@
 
 ###
 
-<h2 align="center">Tech Stack</h2>
+<h2 align="center">💻 Tech Stack</h2>
 
 ###
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
-  <img width="10" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
-  <img width="10" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="30" width="30" />
-</div>
-
-
-###
+<table align ="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48" alt="Golang" />
+      </a>
+      <br>SpringBoot
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="Jsonnet" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="Kubernetes" />
+      </a>
+      <br>CSS
+    </td>
+    <td align="center" width="96"> 
+      <a href="#" >
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center"  width="96">
+      <a href="#">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Debian" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Grafana" />
+      </a>
+      <br>Linux
+    </td>
+     <td align="center" width="96">
+      <a href="#" >
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Grafana" />
+      </a>
+      <br>Postman
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <a href="https://www.instagram.com/dzhan_rafetov/" target="_blank">
@@ -53,6 +88,19 @@
 
 ###
 
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=dzhanrafetov&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=70&date_format=M j[, Y]&order=3" height="160" alt="streak graph" /> <br>
- 
+
+
+ <p align="center">
+  <a href="https://github.com/dzhanrafetov/Melifera">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dzhanrafetov&repo=Melifera" />
+  </a>
+  <a href="https://github.com/dzhanrafetov/IgnitionAuto">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dzhanrafetov&repo=IgnitionAuto" />
+  </a>
+</p>
+
+
+
