@@ -92,7 +92,7 @@
 
 ##
 
-<h3 align="center">GitHub Stats</h3>
+<h3 align="center">🏆 GitHub Stats</h3>
 
 
 ##
@@ -122,7 +122,7 @@
 ##
 
 
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<h2 align="center">👨‍💻 Repositories </h2>
 
 
 
@@ -142,7 +142,14 @@
 </div>
 
 
+<br>
+<div align="center">
 
+
+[![readme Quotes](https://quotes-github-readme.vercel.app/api?quote=It%20is%20not%20the%20skeletal%20and%20muscular%20system%20that%20keeps%20people%20alive%2C%20but%20their%20principles%20and%20beliefs&author=Albert%20Einstein&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
+
+
+</div>
 
 
  
