@@ -94,25 +94,37 @@
 
 <h3 align="center">GitHub Stats</h3>
 
+
 ##
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=dzhanrafetov&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=70&date_format=M j[, Y]&order=3" height="160" alt="streak graph" /> <br>
 
-##
-
-<h3 align="center">Top Projects</h3>
 
 ##
 
- <p align="center">
-  <a href="https://github.com/dzhanrafetov/Melifera">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dzhanrafetov&repo=Melifera" />
+
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+
+
+
+
+<br>
+
+<div style="width: 100%; text-align: center;">
+  <a href="https://github.com/dzhanrafetov/IgnitionAuto" title="IgnitionAuto">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=dzhanrafetov&repo=IgnitionAuto&theme=react&border_color=61dafb&border_radius=10">
   </a>
-  <a href="https://github.com/dzhanrafetov/IgnitionAuto">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dzhanrafetov&repo=IgnitionAuto" />
+  <a href="https://github.com/dzhanrafetov/Melifera" title="Melifera">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=dzhanrafetov&repo=Melifera&theme=react&border_color=61dafb&border_radius=10">
   </a>
-</p>
+   <a href="https://github.com/dzhanrafetov/CallingWebApi" title="CallingWebApi">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=dzhanrafetov&repo=CallingWebApi&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+</div>
+
+
+
 
 
  
