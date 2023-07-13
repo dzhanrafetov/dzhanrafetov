@@ -143,6 +143,9 @@
 
 
 <br>
+
+<h2 align="center">📚 Quote</h2>
+
 <div align="center">
 
 
