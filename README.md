@@ -73,6 +73,13 @@
       </a>
       <br>Postman
     </td>
+<td align="center" width="96">
+      <a href="#" >
+        <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+    
   </tr>
 </table>
 
