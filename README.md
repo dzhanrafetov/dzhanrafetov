@@ -7,81 +7,90 @@
 <h3 align="center">A passionate backend developer from Bulgaria</h3>
 
 ##
+
+
+
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/yEvqX4RIcQAZBXuH1E/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/yEvqX4RIcQAZBXuH1E/giphy.gif" />
 </div>
 
-###
+<div align="center">
+  <h2>💻 Tech Stack</h2>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="#">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48" alt="SpringBoot" /><br />
+          SpringBoot
+        </a>
+      </td>
+      <td align="center">
+        <a href="#">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" /><br />
+          Java
+        </a>
+      </td>
+      <td align="center">
+        <a href="#">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" /><br />
+          JavaScript
+        </a>
+      </td>
+      <td align="center">
+        <a href="#">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" /><br />
+          HTML
+        </a>
+      </td>
+      <td align="center">
+        <a href="#">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" /><br />
+          CSS
+        </a>
+      </td>
+      <td align="center">
+        <a href="#">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" /><br />
+          MySQL
+        </a>
+      </td>
+      <td align="center">
+        <a href="#">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" /><br />
+          Git
+        </a>
+      </td>
+      <td align="center">
+        <a href="#">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" /><br />
+          Linux
+        </a>
+      </td>
+      <td align="center">
+        <a href="#">
+          <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" /><br />
+          Postman
+        </a>
+      </td>
+      <td align="center">
+        <a href="#">
+          <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="48" height="48" alt="Docker" /><br />
+          Docker
+        </a>
+      </td>
+      <td align="center">
+        <a href="#" height>
+          <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" width="48" height="48" alt="Amazon S3 Bucket" /><br />
+          Amazon<br>
+          S3 Bucket
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<h2 align="center">💻 Tech Stack</h2>
 
-###
 
-<table align ="center">
-  <tr>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48" alt="Golang" />
-      </a>
-      <br>SpringBoot
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="Jsonnet" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-      <a href="#" >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br>CSS
-    </td>
-    <td align="center" width="96"> 
-      <a href="#" >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>MySQL
-    </td>
-    <td align="center"  width="96">
-      <a href="#">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Debian" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Grafana" />
-      </a>
-      <br>Linux
-    </td>
-     <td align="center" width="96">
-      <a href="#" >
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Grafana" />
-      </a>
-      <br>Postman
-    </td>
-<td align="center" width="96">
-      <a href="#" >
-        <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-    
-  </tr>
-</table>
 
 
 
@@ -120,7 +129,6 @@
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzhanrafetov&hide=c%23,batchfile&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div> -->
-  <br>
 
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dzhanrafetov&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
