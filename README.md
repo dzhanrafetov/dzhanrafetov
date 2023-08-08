@@ -81,7 +81,7 @@
       <td align="center">
         <a href="#" height>
           <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" width="48" height="48" alt="Amazon S3 Bucket" /><br />
-          Amazon<br>
+          Amazon
           S3 Bucket
         </a>
       </td>
