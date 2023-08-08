@@ -5,94 +5,20 @@
 ### 
 
 <h3 align="center">A passionate backend developer from Bulgaria</h3>
-
-##
-
+ <i> -- I'm currently working on recreating Melifera project.<br>
+     --  I'm learning:  Kafka, Redis, ElasticSearch, AWS Cognito OAuth2, RabbitMQ ,React<br><br><br><br><br><br>
+</i> 
 
 
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/yEvqX4RIcQAZBXuH1E/giphy.gif" />
 </div>
 
-<div align="center">
-  <h2>💻 Tech Stack</h2>
-  <table>
-    <tr>
-      <td align="center">
-        <a href="#">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48" alt="SpringBoot" /><br />
-          SpringBoot
-        </a>
-      </td>
-      <td align="center">
-        <a href="#">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" /><br />
-          Java
-        </a>
-      </td>
-      <td align="center">
-        <a href="#">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" /><br />
-          JavaScript
-        </a>
-      </td>
-      <td align="center">
-        <a href="#">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" /><br />
-          HTML
-        </a>
-      </td>
-      <td align="center">
-        <a href="#">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" /><br />
-          CSS
-        </a>
-      </td>
-      <td align="center">
-        <a href="#">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" /><br />
-          MySQL
-        </a>
-      </td>
-      <td align="center">
-        <a href="#">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" /><br />
-          Git
-        </a>
-      </td>
-      <td align="center">
-        <a href="#">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" /><br />
-          Linux
-        </a>
-      </td>
-      <td align="center">
-        <a href="#">
-          <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" /><br />
-          Postman
-        </a>
-      </td>
-      <td align="center">
-        <a href="#">
-          <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="48" height="48" alt="Docker" /><br />
-          Docker
-        </a>
-      </td>
-      <td align="center">
-        <a href="#" height>
-          <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" width="48" height="48" alt="Amazon S3 Bucket" /><br />
-          Amazon
-          S3 Bucket
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
 
-
-
-
-
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/264080050440110081) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dzhan_rafetov)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dzhan_rafetov) 
 
 <div align="center">
   <a href="https://www.instagram.com/dzhan_rafetov/" target="_blank">
@@ -106,68 +32,36 @@
   </a>
 </div>
 
-##
 
-<h3 align="center">🏆 GitHub Stats</h3>
-
-
-##
-
-<br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=dzhanrafetov&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
-    </a>
-<!--     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=dzhanrafetov&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzhanrafetov&hide=c%23,batchfile&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
-  </div> -->
-
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dzhanrafetov&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
-
-##
-
-<!--
-<h2 align="center">👨‍💻 Repositories </h2>
+## 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
 
-
-<br>
-
-<div style="width: 100%; text-align: center;">
-  <a href="https://github.com/dzhanrafetov/IgnitionAuto" title="IgnitionAuto">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=dzhanrafetov&repo=IgnitionAuto&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-  <a href="https://github.com/dzhanrafetov/Melifera" title="Melifera">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=dzhanrafetov&repo=Melifera&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-   <a href="https://github.com/dzhanrafetov/CallingWebApi" title="CallingWebApi">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=dzhanrafetov&repo=CallingWebApi&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-</div>
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=dzhanrafetov&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dzhanrafetov&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dzhanrafetov&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-<br>
--->
-<h2 align="center">📚 Quote</h2>
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=dzhanrafetov&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
-<div align="center">
+---
+[![](https://visitcount.itsvg.in/api?id=dzhanrafetov&icon=8&color=0)](https://visitcount.itsvg.in)
 
-
-[![readme Quotes](https://quotes-github-readme.vercel.app/api?quote=It%20is%20not%20the%20skeletal%20and%20muscular%20system%20that%20keeps%20people%20alive%2C%20but%20their%20principles%20and%20beliefs&author=Albert%20Einstein&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
-
-
-</div>
 
 
  
