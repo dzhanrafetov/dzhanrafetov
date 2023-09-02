@@ -33,12 +33,12 @@
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![OpenFeign](https://img.shields.io/badge/OpenFeign-%23FE5621.svg?style=for-the-badge)
+![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 
 ## 📚 То be learned :
 
 ![Kafka](https://img.shields.io/badge/kafka-%231572B6.svg?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/elasticsearch-%231572B6.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![AWS Cognito](https://img.shields.io/badge/AWS%20Cognito-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)
