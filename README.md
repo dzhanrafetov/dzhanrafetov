@@ -1,14 +1,3 @@
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=400&color=F7F7F7&width=500&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Dzhan" alt="Typing SVG" /></a>
-  </div>
-
-### 
-
-<h3 align="center">A passionate backend developer from Bulgaria</h3>
-  <i> -- I'm currently working on  <a href="https://github.com/dzhanrafetov/Melifera-Revamp">Melifera-Revamp </a> project.<br>
-
-</i> 
-
 
 
 ## 🌐 Socials:
